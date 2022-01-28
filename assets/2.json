@@ -1,0 +1,19 @@
+{
+  "name": "frnd2",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "7MrgYxi7Z2ZKYCsuujoWyze3gBjYdkfxP4s45SsPY2jT",
+        "share": 100
+      }
+    ]
+  }
+}

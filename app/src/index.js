@@ -9,3 +9,4 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+// wallet public key: Eaiyyrvho32yTupRiBFX1G3ijJDqMipZjf6ud7F5UXh9
